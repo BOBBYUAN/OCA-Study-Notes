@@ -12,3 +12,6 @@ OCA: Oracle Certified Associate Java SE 8 Programmer I Study Guide: Exam 1Z0-808
 4 mock exams on iTestJava
 
 GOOD LUCK HAVE FUN!
+
+
+![Image description](link-to-image)
