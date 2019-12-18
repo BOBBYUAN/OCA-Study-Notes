@@ -13,5 +13,3 @@ OCA: Oracle Certified Associate Java SE 8 Programmer I Study Guide: Exam 1Z0-808
 
 GOOD LUCK HAVE FUN!
 
-
-![Image description](Screen Shot 2019-05-26 at 10.53.15 AM.png)
